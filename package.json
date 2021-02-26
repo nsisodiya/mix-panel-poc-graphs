@@ -1,0 +1,24 @@
+{
+  "name": "mix-panel-poc-graphs",
+  "version": "1.0.0",
+  "description": "mix-panel-poc-graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsisodiya/mix-panel-poc-graphs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsisodiya/mix-panel-poc-graphs/issues"
+  },
+  "homepage": "https://github.com/nsisodiya/mix-panel-poc-graphs#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
